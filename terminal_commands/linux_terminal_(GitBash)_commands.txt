@@ -29,9 +29,9 @@ Linux terminal (GitBash) commands
 https://api.quarantine.country/api/v1/regions 
 curl https://api.quarantine.country/api/v1/regionsc
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
-Создал файл — touch text
-Редактировал файл — vim text («E» для возможности редактирования)
-Сделал исполняемым — chmod +x ./text
-Запустил скрипт — ./text
+Создал файл — touch Script_bash
+Редактировал файл — vim Script_bash («E» для возможности редактирования)
+Сделал исполняемым — chmod +x ./Script_bash
+Запустил скрипт — ./Script_bash
 МАГИЯ получилась=)
 
