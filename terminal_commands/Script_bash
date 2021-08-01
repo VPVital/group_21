@@ -1,0 +1,8 @@
+#!/bin/bash
+pwd
+mkdir 1 2 3
+cd 2
+touch new-file-{A..C}.txt | touch new-file-{D..F}.json
+mkdir cource1  cource2 cource3
+ls -la
+mv /Users/vital/script/2/new-file-D.json new-file-E.json /Users/vital/script/3
