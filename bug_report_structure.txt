@@ -1,0 +1,19 @@
+ID #:
+Summary:
+Precondition: 
+Priority: приоритет бага:
+			P1 Высокий - High
+			P2 Средний - Medium
+			P3 Низкий - Low
+Severity: cеръезность бага:
+			S1 Блокирующий - Blocker
+			S2 Критический - Critical
+			S3 Значительный - Major
+			S4 Незначительный - Minor
+			S5 Тривиальный - Trivial
+Steps to reproduce:
+Expected result: ожидаемый правильный результат.
+Actual result: результат после прохождения "Steps to reproduce"
+Environment: окружение на котором найден баг. WEB -- диагональ, разрешение экрана, браузер, версия браузера. Девайс -- модель и версия операционной системы.
+
+Attachments: прикрепленный файл
