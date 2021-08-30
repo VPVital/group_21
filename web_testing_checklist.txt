@@ -1,0 +1,9 @@
+Ссылка на  Google Doc:
+https://docs.google.com/spreadsheets/d/1AEAcSKZj1y9xXD9hv8OBO-qXTv8Za2njswprV3i5MnA/edit#gid=0
+Содержание файла:
+1.usability testing
+2.Функциональное тестирование
+3.Тестирование совместимости
+4.Тестирование баз данных
+5.Tестирование безопасности
+6.Tестирование производительности
